@@ -1,0 +1,23 @@
+.ticket{
+    border: 2px solid #03045e;
+    border-radius: 5px;
+    color: #ffc107;
+    font-weight: bold;
+    font-size: 2rem;
+    background-color: #f72585;
+}
+h1{
+    color: darkblue;
+    text-transform: uppercase;
+}
+h2{
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
+.btn{
+    color: black;
+    font-weight: 600;
+    background-color: #ffc107;
+}
